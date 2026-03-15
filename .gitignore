@@ -1,0 +1,11 @@
+# Visual Studio 缓存目录
+.vs/
+
+# 编译输出目录（Debug/Release）
+x64/
+Debug/
+Release/
+
+# 可执行文件
+*.exe
+*.pdb
